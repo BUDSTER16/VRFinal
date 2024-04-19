@@ -25,6 +25,7 @@ public class ColourSwap : MonoBehaviour
 
     public void SwapColour()
     {
+        // swaps colours when the ball is held and the trigger is pressed!
         switch(current)
         {
             case 0:
